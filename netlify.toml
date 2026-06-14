@@ -1,26 +1,4 @@
-[[redirects]]
-from = "/*"
-to = "/dreamy-absoluta.html"
-status = 200
-```[[__LINK_ICON]](https://docs.netlify.com/build/configure-builds/file-based-configuration/?f_link_type=f_linkinlinenote&flow_extra=eyJkb2NfaWQiOiJjNzgyZDg2NjU4MDI3MjZiLWRiN2RiNzBkOTI1YzhkOWIiLCJpbmxpbmVfZGlzcGxheV9wb3NpdGlvbiI6MCwiZG9jX3Bvc2l0aW9uIjowfQ%3D%3D "[__LINK_ICON]")
-3. ✍️ Descrição: **`ajuste`**
-4. ⚫ Caixa preta: **`main`**
-5. 🟢 Aperta verde e pronto ✅
-
----
-
-### ✅ DEPOIS, O ÚLTIMO (INDEX.HTML):
-
-1. 📌 Nome: **`netlify.toml`**
-2. 📝 Conteúdo:
-```toml
-[[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
-```[[__LINK_ICON]](https://docs.netlify.com/build/configure-builds/file-based-configuration/?f_link_type=f_linkinlinenote&flow_extra=eyJpbmxpbmVfZGlzcGxheV9wb3NpdGlvbiI6MCwiZG9jX3Bvc2l0aW9uIjowLCJkb2NfaWQiOiJjNzgyZDg2NjU4MDI3MjZiLWRiN2RiNzBkOTI1YzhkOWIifQ%3D%3D "[__LINK_ICON]")
-3. ✍️ Descrição: **`ajuste`**
-4. ⚫ Caixa: **`main`**
-5. 🟢 Verde 🟢
-
-Esse `netlify.toml` é o jeito oficial do Netlify, ele não reclama de nome repetido e funciona 100% igual! 🚀 Agora vai dar certo com certeza, padrinho! 😎
+[[build]]
+base = ""
+command = ""
+publish = ""
